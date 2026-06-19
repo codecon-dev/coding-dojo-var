@@ -1,0 +1,26 @@
+[
+  {
+    "arquivo": "lance-01-atacante-a-frente.json",
+    "nome": "Lance 1 — atacante à frente da linha"
+  },
+  {
+    "arquivo": "lance-02-todos-atras.json",
+    "nome": "Lance 2 — todos atrás da linha"
+  },
+  {
+    "arquivo": "lance-03-mesma-linha.json",
+    "nome": "Lance 3 — atacante na MESMA linha"
+  },
+  {
+    "arquivo": "lance-04-dois-infiltrados.json",
+    "nome": "Lance 4 — dois atacantes infiltrados"
+  },
+  {
+    "arquivo": "lance-05-escanteio-goleiro-saiu.json",
+    "nome": "Lance 5 — escanteio, goleiro saiu"
+  },
+  {
+    "arquivo": "lance-06-lance-real-copa.json",
+    "nome": "Lance 6 — LANCE REAL DA COPA"
+  }
+]
